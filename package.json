@@ -1,43 +1,43 @@
 {
-  "name": "fi-nansal-taki-p-anali-z-ko--si-stemi-",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "homepage": "https://bariskaygisizz.github.io/BRSKO-A-F-NANS-ANAL-Z-TAK-P-KO-U---BRSKO-SOSYAL-MEDYA-F-NANS-ANAL-Z-A-/",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
-  "dependencies": {
-    "@google/generative-ai": "^0.24.1",
-    "@supabase/supabase-js": "^2.105.4",
-    "cors": "^2.8.6",
-    "dotenv": "^17.4.2",
-    "express": "^5.2.1",
-    "framer-motion": "^12.38.0",
-    "i18next": "^26.0.10",
-    "i18next-browser-languagedetector": "^8.2.1",
-    "lucide-react": "^1.14.0",
-    "node-fetch": "^3.3.2",
-    "react": "^19.2.5",
-    "react-dom": "^19.2.5",
-    "react-i18next": "^17.0.7",
-    "react-webcam": "^7.2.0",
-    "recharts": "^3.8.1"
-  },
-  "devDependencies": {
-    "@eslint/js": "^10.0.1",
-    "@types/react": "^19.2.14",
-    "@types/react-dom": "^19.2.3",
-    "@vitejs/plugin-react": "^6.0.1",
-    "eslint": "^10.2.1",
-    "eslint-plugin-react-hooks": "^7.1.1",
-    "eslint-plugin-react-refresh": "^0.5.2",
-    "globals": "^17.5.0",
-    "vite": "^8.0.10"
-  }
+    "name": "brsko-ai-finas",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "homepage": "https://bariskaygisizz.github.io/brsko-ai-finas/",
+    "scripts": {
+          "dev": "vite",
+          "build": "vite build",
+          "lint": "eslint .",
+          "preview": "vite preview",
+          "predeploy": "npm run build",
+          "deploy": "gh-pages -d dist"
+    },
+    "dependencies": {
+          "@google/generative-ai": "^0.24.1",
+          "@supabase/supabase-js": "^2.105.4",
+          "cors": "^2.8.6",
+          "dotenv": "^17.4.2",
+          "express": "^5.2.1",
+          "framer-motion": "^12.38.0",
+          "i18next": "^26.0.10",
+          "i18next-browser-languagedetector": "^8.2.1",
+          "lucide-react": "^1.14.0",
+          "node-fetch": "^3.3.2",
+          "react": "^19.2.5",
+          "react-dom": "^19.2.5",
+          "react-i18next": "^17.0.7",
+          "react-webcam": "^7.2.0",
+          "recharts": "^3.8.1"
+    },
+    "devDependencies": {
+          "@eslint/js": "^10.0.1",
+          "@types/react": "^19.2.14",
+          "@types/react-dom": "^19.2.3",
+          "@vitejs/plugin-react": "^6.0.1",
+          "eslint": "^10.2.1",
+          "eslint-plugin-react-hooks": "^7.1.1",
+          "eslint-plugin-react-refresh": "^0.5.2",
+          "globals": "^17.5.0",
+          "vite": "^8.0.10"
+    }
 }
